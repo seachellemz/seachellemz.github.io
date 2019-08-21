@@ -22,7 +22,7 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2196F3 # Picture Background
+  primary: 00090f # Picture Background
   primary-rgb: "33, 150, 243"
   secondary: 285172 # Dark Header Background
   secondary-dark: 182936 # DarkHeader Color
