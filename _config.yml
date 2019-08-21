@@ -25,7 +25,7 @@ color:
   primary: 2196F3 # Picture Background
   primary-rgb: "33, 150, 243"
   secondary: 285172 # Dark Header Background
-  secondary-dark: 29455b # DarkHeader Color
+  secondary-dark: 182936 # DarkHeader Color
   section-tout: eaf1f1  # Textblock background
 
 
