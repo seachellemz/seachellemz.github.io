@@ -25,7 +25,7 @@ bing_verify:
 color:
   primary: 8fe889 # Picture Background
   primary-rgb: "232, 229, 137"
-  secondary: 076ab8 # Dark Header Background
+  secondary: 8fe889 # Dark Header Background
   secondary-dark: 29455b # DarkHeader Color
   section-tout: eaf1f1  # Textblock background
 
