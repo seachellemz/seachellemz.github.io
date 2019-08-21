@@ -23,12 +23,11 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 8fe889 # Picture Background
-  primary-rgb: "232, 229, 137"
-  secondary: 8fe889 # Dark Header Background
+  primary: 2196F3 # Picture Background
+  primary-rgb: "33, 150, 243"
+  secondary: 076ab8 # Dark Header Background
   secondary-dark: 29455b # DarkHeader Color
   section-tout: eaf1f1  # Textblock background
-
 
 
 # Build settings
