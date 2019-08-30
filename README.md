@@ -1,6 +1,7 @@
 MimiTest Change Number 1
 MimiTest Change Number 2
 MimiTest Change Feature 1
+MimiTest Change Feature 2
 
 This is an example one-pager site that prospective job-seekers can use to quickly
 highlight their accomplishments and make an introduction. It can be hosted for free using
